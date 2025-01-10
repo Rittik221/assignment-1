@@ -145,7 +145,7 @@ nav{
   color: #0e0e0e50;
 }
 .banner-description{
-  font-weight: 800px;
+  font-weight: bold;
   font-size: 40px;
 }
 .banner-pic{
@@ -159,4 +159,41 @@ nav{
   padding: 17px 34px;
   border-radius: 8px;
   background-color: #006A50;
+}
+
+
+/**section title*/
+main section{
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+.section-title{
+  font-weight: bold;
+  font-size: 40px;
+  padding: 160px;
+  gap: 40px;
+}
+/**frame-container*/
+.frame-container{
+  display: flex;
+  gap: 20px;
+  padding: 160px;
+}
+.frame{
+  padding: 24px 24px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+
+}
+.btn{
+  color: #FFFFFF;
+}
+.frame-title{
+  font-weight: bold;
+  font-size: 20px;
+}
+.frame-discription{
+  font-weight: 400px;
+  font-size: 16px;
+  color: #0e0e0e69;
 }
