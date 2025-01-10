@@ -163,15 +163,16 @@ nav{
 
 
 /**section title*/
-main section{
-  margin-top: 80px;
-  margin-bottom: 20px;
+.skill-bg{
+  gap: 20px;
+  padding: 160px;
 }
+
+
 .section-title{
   font-weight: bold;
   font-size: 40px;
-  padding: 160px;
-  gap: 40px;
+
 }
 /**frame-container*/
 .frame-container{
@@ -196,4 +197,17 @@ main section{
   font-weight: 400px;
   font-size: 16px;
   color: #0e0e0e69;
+}
+/*about-title**/
+.about-bg{
+  gap: 20px;
+  padding: 160px;
+}
+.about-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+.about-description{
+font-size: 16px;
+color: #0e0e0e69;
 }
