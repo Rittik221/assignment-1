@@ -192,6 +192,7 @@ nav{
 .frame-title{
   font-weight: bold;
   font-size: 20px;
+  color: #0e0e0ed8;
 }
 .frame-discription{
   font-weight: 400px;
@@ -203,11 +204,51 @@ nav{
   gap: 20px;
   padding: 160px;
 }
-.about-title{
+.about-ttl{
   font-weight: bold;
   font-size: 40px;
 }
-.about-description{
+.about-des{
 font-size: 16px;
 color: #0e0e0e69;
+}
+.about-container{
+  display: flex;
+  gap: 24px;
+  padding: 160px;
+}
+.about-title{
+  font-weight: bold;
+  font-size: 20px;
+  color: #0e0e0ed8;
+}
+.about-description{
+  font-size: 16px;
+  color: #0e0e0e70;
+}
+.about-btn-bg{
+  font-size: 16px;
+  color: #FFFFFF;
+  background-color: #FFC239;
+  padding: 11px 20px;
+  border-radius: 8px;
+}
+.about-btn-b{
+  font-size: 16px;
+  color: #FFFFFF;
+  background-color: #09A15C;
+  padding: 11px 20px;
+  border-radius: 8px;
+}
+.about-btn-g{
+  font-size: 16px;
+  color: #FFFFFF;
+  background-color: #5490F5;
+  padding: 11px 20px;
+  border-radius: 8px;
+}
+.about{
+  background-color: #548ff5a4;
+  padding: 32px 32px;
+  border-radius: 16px;
 }
